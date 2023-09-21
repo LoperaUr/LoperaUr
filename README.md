@@ -89,10 +89,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31lzrcbnwrigl2vcdn3gi6ny6u6u">
     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lzrcbnwrigl2vcdn3gi6ny6u6u)
-  </a>
-</div>
+
 
 ###
