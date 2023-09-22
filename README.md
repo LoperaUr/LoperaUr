@@ -90,9 +90,10 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lzrcbnwrigl2vcdn3gi6ny6u6u" alt="Spotify recently played" />
 </div>
 
-<br clear="both">
+###
 
 <div align="center">
-  <img height="150" src="https://giffiles.alphacoders.com/218/218639.gif"  />
+  <img height="200" src="https://giffiles.alphacoders.com/218/218639.gif"  />
 </div>
 
+###
