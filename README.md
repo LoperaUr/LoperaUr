@@ -94,7 +94,7 @@
 
 ###
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/218/218639.gif" width="40" height="40" />
+  <img src="https://giffiles.alphacoders.com/218/218639.gif" height="200" />
 </div>
 ###
 <div align="center">
